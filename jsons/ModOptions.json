@@ -1,1 +1,1 @@
-{"constants":{"cityWorkRange":6,"cityExpandRange":9,"minimalCityDistance":4,}}
+{"constants":{"cityWorkRange":6,"cityExpandRange":9,"minimalCityDistance":6,"minimalCityDistanceOnDifferentContinents":4,}}
